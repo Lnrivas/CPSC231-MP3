@@ -1,0 +1,28 @@
+README MP3: Modern War(fare)
+
+1) Luis Rivas
+   2365948
+   lrivas@chapman.edu
+   CPSC 231-03
+   Mastery Project 1: Modern War(fare)
+
+2) Card.java
+   Deck.java
+   Player.java
+   Game.java
+   Simulation.java
+   Warlogger.java
+
+3) N/A
+
+4) Dr. Linstead helped me figure out an issue i was having when there was a war when a player had at least 49 cards in office hours (just had to add an if statement).
+   Worked alone
+
+5) javac Card.java
+   javac Deck.java
+   javac Player.java
+   javac Game.java
+   javac Simulation.java
+   javac Warlogger.java
+
+   java Simulation 1
